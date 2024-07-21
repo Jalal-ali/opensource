@@ -1,0 +1,5 @@
+In Javascript Loops are handy, if you want to run the same code over and over again, each time with a different value.
+3 types of Loops used in in Javascript are as follows ; 
+1.For Loop.
+2.While Loop.
+3.Do-While Loop.
